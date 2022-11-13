@@ -9,7 +9,7 @@
 
 ## Какие темы изучаются в курсе?
 * Основные команды it
-* Merge
+* Merge net fghkdfhlhklgfh
 * Trunk based development
 * Pull request
 * Unit testing (модульное тестирование)
